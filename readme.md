@@ -4,7 +4,7 @@
 - multiple layouts
 
 ## Try
-
+- [1 chart layout](https://petrvopalecky.github.io/cryptowatcher/1_layout.html)
 - try here: https://petrvopalecky.github.io/cryptowatcher/
 
 ## Credit
