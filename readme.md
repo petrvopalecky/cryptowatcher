@@ -13,3 +13,6 @@
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+
+![alt text](https://raw.githubusercontent.com/petrvopalecky/cryptowatcher/main/img/preview.jpg)
