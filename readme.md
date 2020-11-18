@@ -7,6 +7,9 @@
 - [1 chart layout](https://petrvopalecky.github.io/cryptowatcher/1_layout.html)
 - [2 chart layout](https://petrvopalecky.github.io/cryptowatcher/2_layout.html)
 - [4 chart layout](https://petrvopalecky.github.io/cryptowatcher/4_layout.html)
+- [5 chart layout](https://petrvopalecky.github.io/cryptowatcher/5_layout.html)
+- [6 chart layout](https://petrvopalecky.github.io/cryptowatcher/6_layout.html)
+
 
 - https://petrvopalecky.github.io/cryptowatcher/
 
